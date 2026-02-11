@@ -1,0 +1,14 @@
+{
+    "articles":[
+        {
+            "title":"Web Tech is Fun",
+            "byline": "Joe Schmo",
+            "text":"In Block 1 IntroCS, it was discovered that Web Technologies are pretty neat."
+        },
+        {
+            "title":"Block 1 Still Awesome",
+            "byline": "Roberta Reporter",
+            "text": "It was reported Thursday that Block 1 is awesome. Sources indicate that it has been awesome since the beginning of the year."
+        }
+    ]
+}
