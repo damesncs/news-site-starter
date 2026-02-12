@@ -2,17 +2,4 @@ h1 {
     font-family: sans-serif;
 }
 
-.article {
-    border: 1px solid black;
-    margin: 10px;
-}
-
-.article h2 {
-    color: blue;
-    font-family: sans-serif;
-}
-
-.article span {
-    font-style: italic;
-}
 
