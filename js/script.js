@@ -16,15 +16,15 @@ function createArticleElement(articleContent){
 
     const title = document.createElement("h2");
     title.innerText = articleContent.title;
-    container.appendChild(title);
+    newArticle.appendChild(title);
 
     const byline = document.createElement("span");
     byline.innerText = articleContent.byline;
-    container.appendChild(byline);
+    newArticle.appendChild(byline);
 
     const text = document.createElement("p");
     text.innerText = articleContent.text;
-    container.appendChild(text);
+    newArticle.appendChild(text);
     
     container.appendChild(newArticle);
 }
